@@ -1,4 +1,4 @@
-# Alexa-DynamoDB-example-AlexaHostedSkill
+# Alexa DynamoDB example AlexaHostedSkill
 
 Launch command to be used:
 
